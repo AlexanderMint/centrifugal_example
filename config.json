@@ -1,0 +1,14 @@
+{
+  "token_hmac_secret_key": "a75f23a7-e9aa-4fd2-ab14-8825ff48bd13",
+  "admin_password": "c8e47b36-9eb7-450f-b697-5c8bc6f23350",
+  "admin_secret": "4b43aefa-1708-4c05-9eb0-9b3f48d4fe76",
+  "api_key": "21a951ea-5435-4a45-b690-429afee2c4af",
+  "allowed_origins": ["*"],
+  "admin": true,
+  "namespaces": [
+    {
+      "name": "public",
+      "presence": true
+    }
+  ]
+}
